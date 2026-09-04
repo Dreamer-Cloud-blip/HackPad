@@ -1842,137 +1842,66 @@
 		)
 	)
 	(junction
-<<<<<<< HEAD
 		(at 69.85 67.31)
-=======
-		(at 163.83 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a091804-eaab-427c-874e-320d00889222")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 43.18 67.31)
-=======
-		(at 137.16 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f1022eb-430d-48d4-a47d-b9f65dfce4a2")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 69.85 49.53)
-=======
-		(at 163.83 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "115ca0c8-2f25-4a0c-abc0-3aa52e80c58b")
-	)
-	(junction
-		(at 163.83 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "172936b2-629f-49df-b5b6-f5b366702f31")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 86.995 99.695)
-=======
-		(at 88.265 53.975)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47b447d4-a578-4f99-9d5d-d398d6403016")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 43.18 49.53)
-=======
-		(at 185.42 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ef27f32-f948-41e0-8e87-592660273709")
-	)
-	(junction
-		(at 158.75 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50c84a5d-a3eb-483d-beb7-14ce5a14ed36")
-	)
-	(junction
-		(at 137.16 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c57686d-e7b2-493c-b2f0-5dde0244bf68")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 93.345 99.06)
-=======
-		(at 94.615 53.34)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e317899-0bc5-4cc8-bf74-8c7e1c1324c1")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 64.77 44.45)
-=======
-		(at 158.75 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9eb84e8f-88b0-434d-afbf-f62bcd340bb4")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 118.11 44.45)
-=======
-		(at 137.16 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "abb174ff-a65d-4861-a209-94f7eaa588d1")
-	)
-	(junction
-		(at 212.09 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5835f31-35e6-44d3-ab9e-82d016379fd3")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 89.535 92.075)
-=======
-		(at 212.09 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbc5aa6a-0c37-4218-bc18-6a4f20eb960d")
-	)
-	(junction
-		(at 90.805 46.355)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c63d8a25-81ff-4bed-bf36-d45f9f39b624")
 	)
 	(junction
-<<<<<<< HEAD
 		(at 91.44 44.45)
-=======
-		(at 185.42 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6cce3fe-e23e-44a1-9e1e-5976cdcd87a3")
 	)
 	(no_connect
-<<<<<<< HEAD
 		(at 227.33 43.18)
 		(uuid "a3336682-869b-462c-87c1-ffded32f1448")
 	)
@@ -1983,24 +1912,6 @@
 	(wire
 		(pts
 			(xy 273.05 44.45) (xy 273.05 35.56)
-=======
-		(at 100.33 132.08)
-		(uuid "a3336682-869b-462c-87c1-ffded32f1448")
-	)
-	(wire
-		(pts
-			(xy 185.42 71.12) (xy 185.42 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01546c88-8194-4659-a5b9-020da6cbd71e")
-	)
-	(wire
-		(pts
-			(xy 64.77 29.21) (xy 64.77 20.32)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2010,11 +1921,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 94.615 119.38) (xy 94.615 118.11)
-=======
-			(xy 95.885 73.66) (xy 95.885 72.39)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2024,11 +1931,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 91.44 27.94) (xy 91.44 44.45)
-=======
-			(xy 185.42 35.56) (xy 185.42 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2038,11 +1941,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 109.22) (xy 25.4 107.95)
-=======
-			(xy 26.67 63.5) (xy 26.67 62.23)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2052,11 +1951,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 170.18 91.44) (xy 175.26 91.44)
-=======
-			(xy 182.88 142.24) (xy 187.96 142.24)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(xy 154.94 91.44) (xy 160.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2066,11 +1961,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 204.47 43.18) (xy 208.28 43.18)
-=======
-			(xy 77.47 132.08) (xy 81.28 132.08)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2080,21 +1971,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 67.31) (xy 43.18 67.31)
-=======
-			(xy 147.32 90.17) (xy 151.13 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13e85ce2-6ca8-457f-8491-601184f6b0ce")
-	)
-	(wire
-		(pts
-			(xy 119.38 74.93) (xy 137.16 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2104,11 +1981,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 115.57) (xy 25.4 114.3)
-=======
-			(xy 26.67 69.85) (xy 26.67 68.58)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2118,11 +1991,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 80.01 63.5) (xy 83.82 63.5)
-=======
-			(xy 173.99 71.12) (xy 177.8 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2132,31 +2001,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 92.71 110.49) (xy 95.25 110.49)
-=======
-			(xy 212.09 71.12) (xy 212.09 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "235753ed-0b90-4213-b53d-43700145e12a")
-	)
-	(wire
-		(pts
-			(xy 137.16 95.25) (xy 163.83 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24721ba1-21e3-4b54-8848-e564dd3d1791")
-	)
-	(wire
-		(pts
-			(xy 93.98 64.77) (xy 96.52 64.77)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2166,21 +2011,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 49.53) (xy 43.18 49.53)
-=======
-			(xy 163.83 90.17) (xy 163.83 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f7cc9dd-786e-401e-8a6e-a807b5612d38")
-	)
-	(wire
-		(pts
-			(xy 119.38 57.15) (xy 137.16 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2190,21 +2021,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 91.44 44.45) (xy 91.44 63.5)
-=======
-			(xy 200.66 90.17) (xy 204.47 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31a50ade-dd92-4f21-95d6-5e7faf667ab6")
-	)
-	(wire
-		(pts
-			(xy 185.42 52.07) (xy 185.42 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2214,11 +2031,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 43.18 63.5) (xy 43.18 67.31)
-=======
-			(xy 137.16 71.12) (xy 137.16 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2228,11 +2041,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 254 41.91) (xy 266.7 41.91)
-=======
-			(xy 45.72 26.67) (xy 58.42 26.67)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2242,11 +2051,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 175.26 91.44) (xy 175.26 90.17)
-=======
-			(xy 187.96 142.24) (xy 187.96 140.97)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(xy 160.02 91.44) (xy 160.02 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2256,11 +2061,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 53.34 44.45) (xy 57.15 44.45)
-=======
-			(xy 147.32 52.07) (xy 151.13 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2270,11 +2071,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 114.3) (xy 92.71 114.3)
-=======
-			(xy 87.63 68.58) (xy 93.98 68.58)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2284,11 +2081,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 43.18 49.53) (xy 69.85 49.53)
-=======
-			(xy 137.16 57.15) (xy 163.83 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2298,11 +2091,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 116.84) (xy 93.98 116.84)
-=======
-			(xy 87.63 71.12) (xy 95.25 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2312,11 +2101,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 149.225 43.18) (xy 151.13 43.18)
-=======
-			(xy 22.225 132.08) (xy 24.13 132.08)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2326,11 +2111,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 69.85 67.31) (xy 96.52 67.31)
-=======
-			(xy 163.83 74.93) (xy 190.5 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2340,11 +2121,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 29.21 121.92) (xy 45.72 121.92)
-=======
-			(xy 30.48 76.2) (xy 46.99 76.2)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2354,11 +2131,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 69.85 49.53) (xy 96.52 49.53)
-=======
-			(xy 163.83 57.15) (xy 190.5 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2368,11 +2141,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 106.68) (xy 25.4 104.14)
-=======
-			(xy 26.67 60.96) (xy 26.67 58.42)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2382,11 +2151,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 109.22) (xy 89.535 109.22)
-=======
-			(xy 87.63 63.5) (xy 90.805 63.5)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2396,11 +2161,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 118.11 44.45) (xy 118.11 63.5)
-=======
-			(xy 212.09 52.07) (xy 212.09 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2410,11 +2171,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 171.45 87.63) (xy 175.26 87.63)
-=======
-			(xy 184.15 138.43) (xy 187.96 138.43)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(xy 156.21 87.63) (xy 160.02 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2424,11 +2181,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 93.98 114.3) (xy 95.25 114.3)
-=======
-			(xy 95.25 68.58) (xy 96.52 68.58)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2438,21 +2191,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 29.21 127) (xy 29.21 121.92)
-=======
-			(xy 87.63 76.2) (xy 96.52 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "636a6519-4732-44fa-8ea4-32bbc1ef3324")
-	)
-	(wire
-		(pts
-			(xy 30.48 81.28) (xy 30.48 76.2)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2462,21 +2201,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 69.85 44.45) (xy 69.85 49.53)
-=======
-			(xy 190.5 90.17) (xy 190.5 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6676b637-8a5f-4aed-8db2-d5468c8796b6")
-	)
-	(wire
-		(pts
-			(xy 163.83 52.07) (xy 163.83 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2486,11 +2211,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 69.85 63.5) (xy 69.85 67.31)
-=======
-			(xy 163.83 71.12) (xy 163.83 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2500,11 +2221,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 116.84) (xy 45.72 116.84)
-=======
-			(xy 26.67 71.12) (xy 46.99 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2514,11 +2231,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 45.72 109.22) (xy 25.4 109.22)
-=======
-			(xy 46.99 63.5) (xy 26.67 63.5)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2528,11 +2241,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 93.345 99.06) (xy 96.52 99.06)
-=======
-			(xy 94.615 53.34) (xy 97.79 53.34)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2542,11 +2251,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 223.52 43.18) (xy 227.33 43.18)
-=======
-			(xy 96.52 132.08) (xy 100.33 132.08)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2556,11 +2261,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 96.52 63.5) (xy 96.52 67.31)
-=======
-			(xy 190.5 71.12) (xy 190.5 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2570,11 +2271,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 64.77 44.45) (xy 64.77 63.5)
-=======
-			(xy 158.75 52.07) (xy 158.75 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2584,11 +2281,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 266.7 36.83) (xy 266.7 41.91)
-=======
-			(xy 58.42 21.59) (xy 58.42 26.67)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2598,11 +2291,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 118.11 27.94) (xy 118.11 44.45)
-=======
-			(xy 212.09 35.56) (xy 212.09 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2612,11 +2301,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.995 99.695) (xy 86.995 106.68)
-=======
-			(xy 88.265 53.975) (xy 88.265 60.96)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2626,11 +2311,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 104.14) (xy 24.13 104.14)
-=======
-			(xy 26.67 58.42) (xy 25.4 58.42)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2640,11 +2321,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 94.615 118.11) (xy 95.25 118.11)
-=======
-			(xy 95.885 72.39) (xy 96.52 72.39)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2654,11 +2331,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 254 39.37) (xy 260.35 39.37)
-=======
-			(xy 45.72 24.13) (xy 52.07 24.13)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2668,11 +2341,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 53.34 63.5) (xy 57.15 63.5)
-=======
-			(xy 147.32 71.12) (xy 151.13 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2682,11 +2351,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 45.72 106.68) (xy 25.4 106.68)
-=======
-			(xy 46.99 60.96) (xy 26.67 60.96)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2696,11 +2361,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 119.38) (xy 94.615 119.38)
-=======
-			(xy 87.63 73.66) (xy 95.885 73.66)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2710,11 +2371,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 106.68 63.5) (xy 110.49 63.5)
-=======
-			(xy 200.66 71.12) (xy 204.47 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2724,31 +2381,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 254 44.45) (xy 273.05 44.45)
-=======
-			(xy 137.16 90.17) (xy 137.16 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9dfcd4fd-83c8-42d4-bf27-e2f40116bc01")
-	)
-	(wire
-		(pts
-			(xy 173.99 90.17) (xy 177.8 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a11b2f93-e96f-496c-8ed2-448eaa8c35b3")
-	)
-	(wire
-		(pts
-			(xy 45.72 29.21) (xy 64.77 29.21)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2758,11 +2391,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 185.42 43.18) (xy 189.23 43.18)
-=======
-			(xy 58.42 132.08) (xy 62.23 132.08)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2772,11 +2401,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 89.535 109.22) (xy 89.535 92.075)
-=======
-			(xy 90.805 63.5) (xy 90.805 46.355)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2786,11 +2411,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 254 46.99) (xy 279.4 46.99)
-=======
-			(xy 45.72 31.75) (xy 71.12 31.75)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2800,11 +2421,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 114.3) (xy 45.72 114.3)
-=======
-			(xy 26.67 68.58) (xy 46.99 68.58)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2814,11 +2431,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 26.67 119.38) (xy 45.72 119.38)
-=======
-			(xy 27.94 73.66) (xy 46.99 73.66)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2828,11 +2441,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 80.01 44.45) (xy 83.82 44.45)
-=======
-			(xy 173.99 52.07) (xy 177.8 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2842,11 +2451,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 80.645 99.695) (xy 86.995 99.695)
-=======
-			(xy 81.915 53.975) (xy 88.265 53.975)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2856,11 +2461,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 24.13 119.38) (xy 25.4 119.38)
-=======
-			(xy 25.4 73.66) (xy 26.67 73.66)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2870,11 +2471,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 279.4 46.99) (xy 279.4 35.56)
-=======
-			(xy 71.12 31.75) (xy 71.12 20.32)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2884,11 +2481,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 24.13 127) (xy 29.21 127)
-=======
-			(xy 25.4 81.28) (xy 30.48 81.28)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2898,11 +2491,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 24.13 111.76) (xy 45.72 111.76)
-=======
-			(xy 25.4 66.04) (xy 46.99 66.04)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2912,11 +2501,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 166.37 43.18) (xy 170.18 43.18)
-=======
-			(xy 39.37 132.08) (xy 43.18 132.08)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2926,11 +2511,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 106.68) (xy 86.995 106.68)
-=======
-			(xy 87.63 60.96) (xy 88.265 60.96)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2940,11 +2521,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 91.44 99.06) (xy 93.345 99.06)
-=======
-			(xy 92.71 53.34) (xy 94.615 53.34)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2954,11 +2531,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 91.44 111.76) (xy 91.44 99.06)
-=======
-			(xy 92.71 66.04) (xy 92.71 53.34)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2968,11 +2541,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 96.52 44.45) (xy 96.52 49.53)
-=======
-			(xy 190.5 52.07) (xy 190.5 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -2982,11 +2551,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 170.18 83.82) (xy 175.26 83.82)
-=======
-			(xy 182.88 134.62) (xy 187.96 134.62)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(xy 154.94 83.82) (xy 160.02 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2996,21 +2561,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
-			(xy 175.26 83.82) (xy 175.26 85.09)
-=======
-			(xy 119.38 95.25) (xy 137.16 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4e51f29-dc5a-4957-b8ae-4517144e57b6")
-	)
-	(wire
-		(pts
-			(xy 187.96 134.62) (xy 187.96 135.89)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(xy 160.02 83.82) (xy 160.02 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3020,11 +2571,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 260.35 36.83) (xy 260.35 39.37)
-=======
-			(xy 52.07 21.59) (xy 52.07 24.13)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3034,11 +2581,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 43.18 67.31) (xy 69.85 67.31)
-=======
-			(xy 137.16 74.93) (xy 163.83 74.93)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3048,11 +2591,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 43.18 44.45) (xy 43.18 49.53)
-=======
-			(xy 137.16 52.07) (xy 137.16 57.15)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3062,11 +2601,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 92.71 114.3) (xy 92.71 110.49)
-=======
-			(xy 93.98 68.58) (xy 93.98 64.77)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3076,11 +2611,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 24.13 115.57) (xy 25.4 115.57)
-=======
-			(xy 25.4 69.85) (xy 26.67 69.85)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3090,21 +2621,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 107.95) (xy 24.13 107.95)
-=======
-			(xy 158.75 71.12) (xy 158.75 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5bdeff0-16ea-48d7-a094-5887570641d4")
-	)
-	(wire
-		(pts
-			(xy 26.67 62.23) (xy 25.4 62.23)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3114,11 +2631,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 86.36 111.76) (xy 91.44 111.76)
-=======
-			(xy 87.63 66.04) (xy 92.71 66.04)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3128,11 +2641,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 106.68 44.45) (xy 110.49 44.45)
-=======
-			(xy 200.66 52.07) (xy 204.47 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3142,11 +2651,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 89.535 92.075) (xy 93.345 92.075)
-=======
-			(xy 90.805 46.355) (xy 94.615 46.355)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3156,11 +2661,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 93.98 116.84) (xy 93.98 114.3)
-=======
-			(xy 95.25 71.12) (xy 95.25 68.58)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3170,11 +2671,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 64.77 27.94) (xy 64.77 44.45)
-=======
-			(xy 158.75 35.56) (xy 158.75 52.07)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3184,11 +2681,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 25.4 119.38) (xy 25.4 116.84)
-=======
-			(xy 26.67 73.66) (xy 26.67 71.12)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3198,11 +2691,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 24.13 123.19) (xy 26.67 123.19)
-=======
-			(xy 25.4 77.47) (xy 27.94 77.47)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3212,21 +2701,7 @@
 	)
 	(wire
 		(pts
-<<<<<<< HEAD
 			(xy 26.67 123.19) (xy 26.67 119.38)
-=======
-			(xy 163.83 95.25) (xy 190.5 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb7ec91b-6b1e-4a75-a2ee-118b660b871f")
-	)
-	(wire
-		(pts
-			(xy 27.94 77.47) (xy 27.94 73.66)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		)
 		(stroke
 			(width 0)
@@ -3234,37 +2709,9 @@
 		)
 		(uuid "fea33d90-451e-479b-a0ce-4aebbe50889d")
 	)
-<<<<<<< HEAD
 	(global_label "SCL"
 		(shape passive)
 		(at 24.13 123.19 180)
-=======
-	(global_label "ROW3"
-		(shape passive)
-		(at 96.52 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "08b88ef0-2fba-406f-b07c-1a3b9b3eaf57")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.6553 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape passive)
-		(at 25.4 77.47 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3274,11 +2721,7 @@
 		)
 		(uuid "2c14ad7a-7eac-4a8c-9837-03cec1c3a25a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 18.7485 123.19 0)
-=======
-			(at 20.0185 77.47 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3290,11 +2733,7 @@
 	)
 	(global_label "COL2"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 107.95 180)
-=======
-		(at 25.4 62.23 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3304,11 +2743,7 @@
 		)
 		(uuid "34dee8c6-db2f-45f5-958e-e5a6597ebb44")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 17.418 107.95 0)
-=======
-			(at 18.688 62.23 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3320,11 +2755,7 @@
 	)
 	(global_label "ROW1"
 		(shape passive)
-<<<<<<< HEAD
 		(at 25.4 49.53 180)
-=======
-		(at 119.38 57.15 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3334,11 +2765,7 @@
 		)
 		(uuid "34e7c808-d029-4c70-9e8e-ccda58bbcb45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 18.2647 49.53 0)
-=======
-			(at 112.2447 57.15 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3350,11 +2777,7 @@
 	)
 	(global_label "ROW2"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 127 180)
-=======
-		(at 25.4 81.28 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3364,11 +2787,7 @@
 		)
 		(uuid "3a6c89e9-e0f2-42bf-8943-63e2319128a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 16.9947 127 0)
-=======
-			(at 18.2647 81.28 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3380,11 +2799,7 @@
 	)
 	(global_label "COL2"
 		(shape passive)
-<<<<<<< HEAD
 		(at 91.44 27.94 90)
-=======
-		(at 185.42 35.56 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3394,11 +2809,7 @@
 		)
 		(uuid "3fc7b317-f0f6-4e2a-ad17-d82e4f08e555")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 91.44 21.228 90)
-=======
-			(at 185.42 28.848 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3410,11 +2821,7 @@
 	)
 	(global_label "ENCB"
 		(shape passive)
-<<<<<<< HEAD
-		(at 170.18 91.44 180)
-=======
-		(at 182.88 142.24 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+		(at 154.94 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3424,11 +2831,7 @@
 		)
 		(uuid "55c44c76-a580-4db2-b033-0e26df1d2440")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 163.2866 91.44 0)
-=======
-			(at 175.9866 142.24 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 148.0466 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3440,11 +2843,7 @@
 	)
 	(global_label "SCL"
 		(shape passive)
-<<<<<<< HEAD
 		(at 273.05 35.56 90)
-=======
-		(at 64.77 20.32 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3454,11 +2853,7 @@
 		)
 		(uuid "5ad6a712-fa93-4c9b-b8d2-d09e1270687e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 273.05 30.1785 90)
-=======
-			(at 64.77 14.9385 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,11 +2865,7 @@
 	)
 	(global_label "ROW1"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 115.57 180)
-=======
-		(at 25.4 69.85 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3484,11 +2875,7 @@
 		)
 		(uuid "5b03aea9-581a-4824-a85d-56031d6c6017")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 16.9947 115.57 0)
-=======
-			(at 18.2647 69.85 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,11 +2887,7 @@
 	)
 	(global_label "SDA"
 		(shape passive)
-<<<<<<< HEAD
 		(at 279.4 35.56 90)
-=======
-		(at 71.12 20.32 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3514,11 +2897,7 @@
 		)
 		(uuid "6b08306a-93e1-447f-b68f-c65c074bddd3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 279.4 30.118 90)
-=======
-			(at 71.12 14.878 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,11 +2909,7 @@
 	)
 	(global_label "COL3"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 111.76 180)
-=======
-		(at 25.4 66.04 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3544,11 +2919,7 @@
 		)
 		(uuid "78ab32ed-a106-4a79-aea9-3b92f56f8251")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 17.418 111.76 0)
-=======
-			(at 18.688 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3560,11 +2931,7 @@
 	)
 	(global_label "COL3"
 		(shape passive)
-<<<<<<< HEAD
 		(at 118.11 27.94 90)
-=======
-		(at 212.09 35.56 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3574,11 +2941,7 @@
 		)
 		(uuid "9855756f-25ee-4008-8d59-84829ad790a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 118.11 21.228 90)
-=======
-			(at 212.09 28.848 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3590,11 +2953,7 @@
 	)
 	(global_label "SDA"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 119.38 180)
-=======
-		(at 25.4 73.66 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3604,11 +2963,7 @@
 		)
 		(uuid "a65a4104-8713-4ea8-9dbc-55f17ff69a15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 18.688 119.38 0)
-=======
-			(at 19.958 73.66 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3620,11 +2975,7 @@
 	)
 	(global_label "ENCB"
 		(shape passive)
-<<<<<<< HEAD
 		(at 95.25 110.49 0)
-=======
-		(at 96.52 64.77 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3634,11 +2985,7 @@
 		)
 		(uuid "b7654c91-8f58-4fb3-855b-dc7212fe0f2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 102.1434 110.49 0)
-=======
-			(at 103.4134 64.77 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3650,11 +2997,7 @@
 	)
 	(global_label "COL1"
 		(shape passive)
-<<<<<<< HEAD
 		(at 24.13 104.14 180)
-=======
-		(at 25.4 58.42 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3664,11 +3007,7 @@
 		)
 		(uuid "be1cdd3f-9af0-43cb-8e33-b92584003bad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 17.418 104.14 0)
-=======
-			(at 18.688 58.42 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3680,11 +3019,7 @@
 	)
 	(global_label "ENCA"
 		(shape passive)
-<<<<<<< HEAD
 		(at 95.25 114.3 0)
-=======
-		(at 96.52 68.58 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3694,11 +3029,7 @@
 		)
 		(uuid "d92fefd0-4a47-4be3-b9ac-4be7ccdf263d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 101.962 114.3 0)
-=======
-			(at 103.232 68.58 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3710,11 +3041,7 @@
 	)
 	(global_label "COL1"
 		(shape passive)
-<<<<<<< HEAD
 		(at 64.77 27.94 90)
-=======
-		(at 158.75 35.56 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3724,11 +3051,7 @@
 		)
 		(uuid "df11924e-ef76-4542-9836-4937f1ae2039")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 64.77 21.228 90)
-=======
-			(at 158.75 28.848 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3738,37 +3061,9 @@
 			)
 		)
 	)
-<<<<<<< HEAD
 	(global_label "LED_DATA"
 		(shape passive)
 		(at 149.225 43.18 180)
-=======
-	(global_label "ROW3"
-		(shape passive)
-		(at 119.38 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "df6ac90e-8465-4134-917a-4c225f2313df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.2447 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_DATA"
-		(shape passive)
-		(at 22.225 132.08 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3778,11 +3073,7 @@
 		)
 		(uuid "f03cbe24-f021-4d90-a518-9e6e1d5b664f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 138.5216 43.18 0)
-=======
-			(at 11.5216 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3794,11 +3085,7 @@
 	)
 	(global_label "ENCA"
 		(shape passive)
-<<<<<<< HEAD
-		(at 170.18 83.82 180)
-=======
-		(at 182.88 134.62 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+		(at 154.94 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3808,11 +3095,7 @@
 		)
 		(uuid "f0eaf6db-1b3f-48fa-b2fd-9326acd2059b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
-			(at 163.468 83.82 0)
-=======
-			(at 176.168 134.62 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 148.228 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3824,11 +3107,7 @@
 	)
 	(global_label "LED_DATA"
 		(shape passive)
-<<<<<<< HEAD
 		(at 95.25 118.11 0)
-=======
-		(at 96.52 72.39 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3838,11 +3117,7 @@
 		)
 		(uuid "f107237e-2048-4140-aa27-89112593ddb8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 105.9534 118.11 0)
-=======
-			(at 107.2234 72.39 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3854,11 +3129,7 @@
 	)
 	(global_label "ROW2"
 		(shape passive)
-<<<<<<< HEAD
 		(at 25.4 67.31 180)
-=======
-		(at 119.38 74.93 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3868,11 +3139,7 @@
 		)
 		(uuid "fb501578-9ab9-4e47-b8fd-8e70cb15200b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-<<<<<<< HEAD
 			(at 18.2647 67.31 0)
-=======
-			(at 112.2447 74.93 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,11 +3151,7 @@
 	)
 	(symbol
 		(lib_id "LED:WS2812B")
-<<<<<<< HEAD
 		(at 158.75 43.18 0)
-=======
-		(at 31.75 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3896,11 +3159,7 @@
 		(dnp no)
 		(uuid "01e412f4-e704-4333-9fe9-0c19e3472d9a")
 		(property "Reference" "D10"
-<<<<<<< HEAD
 			(at 170.18 36.8614 0)
-=======
-			(at 43.18 125.7614 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3908,24 +3167,15 @@
 			)
 		)
 		(property "Value" "WS2812B"
-<<<<<<< HEAD
 			(at 170.18 39.4014 0)
-=======
-			(at 43.18 128.3014 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 160.02 50.8 0)
-=======
-		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
-			(at 33.02 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,11 +3185,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-<<<<<<< HEAD
 			(at 161.29 52.705 0)
-=======
-			(at 34.29 141.605 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3949,11 +3195,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-<<<<<<< HEAD
 			(at 158.75 43.18 0)
-=======
-			(at 31.75 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3974,11 +3216,7 @@
 			(uuid "f8c24524-b7cb-4482-a3cb-57075bd5eb74")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "D10")
 					(unit 1)
@@ -3988,11 +3226,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-<<<<<<< HEAD
 		(at 93.345 92.075 0)
-=======
-		(at 94.615 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4000,13 +3234,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0481ea06-c40c-452e-b233-889e6fa8ae9a")
-<<<<<<< HEAD
 		(property "Reference" "#FLG03"
 			(at 93.345 90.17 0)
-=======
-		(property "Reference" "#FLG3"
-			(at 94.615 44.45 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,11 +3244,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-<<<<<<< HEAD
 			(at 93.345 86.995 0)
-=======
-			(at 94.615 41.275 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4027,11 +3252,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 93.345 92.075 0)
-=======
-			(at 94.615 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4040,11 +3261,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 93.345 92.075 0)
-=======
-			(at 94.615 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4053,11 +3270,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-<<<<<<< HEAD
 			(at 93.345 92.075 0)
-=======
-			(at 94.615 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4069,35 +3282,23 @@
 			(uuid "2e19fc10-48ee-4cb5-9aaf-36fe90efeeb0")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#FLG03")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#FLG3")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-<<<<<<< HEAD
 		(lib_id "power:PWR_FLAG")
 		(at 96.52 99.06 0)
-=======
-		(lib_id "Switch:SW_Push")
-		(at 142.24 90.17 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-<<<<<<< HEAD
 		(uuid "0cb77a9c-377e-4582-946d-38887f2aa6be")
 		(property "Reference" "#FLG02"
 			(at 96.52 97.155 0)
@@ -4110,32 +3311,14 @@
 		)
 		(property "Value" "PWR_FLAG"
 			(at 96.52 94.615 0)
-=======
-		(uuid "09732bc8-afde-4376-8130-eae1da56434a")
-		(property "Reference" "SW3"
-			(at 142.24 82.55 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" ""
 			(at 96.52 99.06 0)
-=======
-		(property "Value" "SW_Push"
-			(at 142.24 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 142.24 85.09 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,80 +3327,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 96.52 99.06 0)
-=======
-			(at 142.24 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 142.24 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f7dba3e8-1e66-4917-851e-1e0c286416a6")
-		)
-		(pin "2"
-			(uuid "058e8422-0b9e-4057-8c48-845a6e0dbf7e")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 97.79 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0cb77a9c-377e-4582-946d-38887f2aa6be")
-		(property "Reference" "#FLG2"
-			(at 97.79 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 97.79 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,11 +3336,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-<<<<<<< HEAD
 			(at 96.52 99.06 0)
-=======
-			(at 97.79 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,101 +3348,9 @@
 			(uuid "ffea5537-9f10-43a5-8cf1-bc2626687228")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#FLG02")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#FLG2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 154.94 90.17 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1bfc448a-d194-4c89-9156-057636b799d3")
-		(property "Reference" "D3"
-			(at 154.94 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 154.94 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 154.94 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 154.94 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 154.94 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 154.94 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 154.94 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7bc5fdb2-09d9-4632-80a2-a093826bc135")
-		)
-		(pin "1"
-			(uuid "5f9631a3-ce8d-4470-8140-2665601e60b9")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "D3")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -4344,11 +3358,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-<<<<<<< HEAD
 		(at 93.345 99.06 0)
-=======
-		(at 94.615 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4356,13 +3366,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ed5fe90-653b-4d66-9da8-69f7c491a0f3")
-<<<<<<< HEAD
 		(property "Reference" "#PWR03"
 			(at 93.345 102.87 0)
-=======
-		(property "Reference" "#PWR3"
-			(at 94.615 57.15 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4371,11 +3376,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-<<<<<<< HEAD
 			(at 93.345 93.98 0)
-=======
-			(at 94.615 48.26 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4383,11 +3384,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 93.345 99.06 0)
-=======
-			(at 94.615 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4396,11 +3393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 93.345 99.06 0)
-=======
-			(at 94.615 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,11 +3402,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-<<<<<<< HEAD
 			(at 93.345 99.06 0)
-=======
-			(at 94.615 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4425,15 +3414,9 @@
 			(uuid "e2af0aa5-579c-45d6-81f7-c645ef58d3dd")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR03")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR3")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -4441,26 +3424,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
-		(at 171.45 87.63 270)
-=======
-		(at 184.15 138.43 270)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+		(at 156.21 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-<<<<<<< HEAD
 		(uuid "22e441af-eaf1-4d67-beeb-3fa23ec0454f")
 		(property "Reference" "#PWR023"
-			(at 165.1 87.63 0)
-=======
-		(fields_autoplaced yes)
-		(uuid "22e441af-eaf1-4d67-beeb-3fa23ec0454f")
-		(property "Reference" "#PWR23"
-			(at 177.8 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 149.86 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,11 +3441,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
-			(at 168.91 87.63 90)
-=======
-			(at 180.34 138.4299 90)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 153.67 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,11 +3450,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
-			(at 171.45 87.63 0)
-=======
-			(at 184.15 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 156.21 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4495,11 +3459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
-			(at 171.45 87.63 0)
-=======
-			(at 184.15 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 156.21 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4508,11 +3468,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
-			(at 171.45 87.63 0)
-=======
-			(at 184.15 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 156.21 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4524,15 +3480,9 @@
 			(uuid "8eb3db7d-764c-4a0e-a2a0-40c8cd6b4690")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR023")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR23")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -4540,11 +3490,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-<<<<<<< HEAD
 		(at 87.63 44.45 180)
-=======
-		(at 181.61 52.07 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4553,11 +3499,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f01f000-a0b4-40ba-bf74-aa82c9328ec9")
 		(property "Reference" "D4"
-<<<<<<< HEAD
 			(at 87.63 38.1 0)
-=======
-			(at 181.61 45.72 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4565,11 +3507,7 @@
 			)
 		)
 		(property "Value" "D"
-<<<<<<< HEAD
 			(at 87.63 40.64 0)
-=======
-			(at 181.61 48.26 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4577,11 +3515,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-<<<<<<< HEAD
 			(at 87.63 44.45 0)
-=======
-			(at 181.61 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4590,11 +3524,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 87.63 44.45 0)
-=======
-			(at 181.61 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4603,11 +3533,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 87.63 44.45 0)
-=======
-			(at 181.61 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4616,11 +3542,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 87.63 44.45 0)
-=======
-			(at 181.61 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4629,11 +3551,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 87.63 44.45 0)
-=======
-			(at 181.61 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4658,11 +3576,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-<<<<<<< HEAD
 		(at 248.92 41.91 0)
-=======
-		(at 40.64 26.67 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4671,11 +3585,7 @@
 		(fields_autoplaced yes)
 		(uuid "368ff149-0b9e-4ebb-8aeb-03365aa4b428")
 		(property "Reference" "J1"
-<<<<<<< HEAD
 			(at 249.555 34.29 0)
-=======
-			(at 41.275 19.05 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4683,11 +3593,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-<<<<<<< HEAD
 			(at 249.555 36.83 0)
-=======
-			(at 41.275 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4695,11 +3601,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-<<<<<<< HEAD
 			(at 248.92 41.91 0)
-=======
-			(at 40.64 26.67 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4708,11 +3610,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 248.92 41.91 0)
-=======
-			(at 40.64 26.67 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4721,11 +3619,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-<<<<<<< HEAD
 			(at 248.92 41.91 0)
-=======
-			(at 40.64 26.67 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,11 +3640,7 @@
 			(uuid "2b7251e4-7246-436e-afbd-11cd2d38d4f4")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "J1")
 					(unit 1)
@@ -4760,11 +3650,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 101.6 63.5 0)
-=======
-		(at 195.58 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4773,11 +3659,7 @@
 		(fields_autoplaced yes)
 		(uuid "43df8884-5298-4e1c-af68-b12a31b1ea03")
 		(property "Reference" "SW8"
-<<<<<<< HEAD
 			(at 101.6 55.88 0)
-=======
-			(at 195.58 63.5 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4785,11 +3667,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 101.6 58.42 0)
-=======
-			(at 195.58 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,11 +3675,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 101.6 58.42 0)
-=======
-			(at 195.58 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,11 +3684,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 101.6 58.42 0)
-=======
-			(at 195.58 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4823,11 +3693,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 101.6 63.5 0)
-=======
-			(at 195.58 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4851,99 +3717,8 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
 		(lib_id "power:+5V")
 		(at 215.9 35.56 0)
-=======
-		(lib_id "Device:D")
-		(at 181.61 90.17 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "461765c0-d9ba-4cb9-9a54-65ce6a39db00")
-		(property "Reference" "D6"
-			(at 181.61 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 181.61 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "41a708d2-c1c8-4dde-b43a-417bcee4e447")
-		)
-		(pin "1"
-			(uuid "ba8752bd-0536-40e2-b4f0-1ba5913a4a11")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 88.9 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4951,13 +3726,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c36f05e-5c40-4a83-93cc-c4fe7adc6af5")
-<<<<<<< HEAD
 		(property "Reference" "#PWR08"
 			(at 215.9 39.37 0)
-=======
-		(property "Reference" "#PWR8"
-			(at 88.9 128.27 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,11 +3736,7 @@
 			)
 		)
 		(property "Value" "+5V"
-<<<<<<< HEAD
 			(at 215.9 30.48 0)
-=======
-			(at 88.9 119.38 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4978,11 +3744,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 215.9 35.56 0)
-=======
-			(at 88.9 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4991,11 +3753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 215.9 35.56 0)
-=======
-			(at 88.9 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5004,11 +3762,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-<<<<<<< HEAD
 			(at 215.9 35.56 0)
-=======
-			(at 88.9 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,15 +3774,9 @@
 			(uuid "dcd48ece-a4c0-4942-9266-07dc15036fbb")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR08")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR8")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -5036,11 +3784,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-<<<<<<< HEAD
 		(at 86.995 99.695 0)
-=======
-		(at 88.265 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5048,13 +3792,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d649649-c0c4-4a1d-9b99-e8f3d1765ab5")
-<<<<<<< HEAD
 		(property "Reference" "#PWR024"
 			(at 86.995 103.505 0)
-=======
-		(property "Reference" "#PWR24"
-			(at 88.265 57.785 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5063,11 +3802,7 @@
 			)
 		)
 		(property "Value" "+5V"
-<<<<<<< HEAD
 			(at 86.995 94.615 0)
-=======
-			(at 88.265 48.895 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5075,11 +3810,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 86.995 99.695 0)
-=======
-			(at 88.265 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5088,11 +3819,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 86.995 99.695 0)
-=======
-			(at 88.265 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5101,11 +3828,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-<<<<<<< HEAD
 			(at 86.995 99.695 0)
-=======
-			(at 88.265 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,15 +3840,9 @@
 			(uuid "5ffac2cb-2d23-495b-ad1c-04cca2d9f634")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR024")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR24")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -5133,11 +3850,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-<<<<<<< HEAD
 		(at 196.85 35.56 0)
-=======
-		(at 69.85 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5145,13 +3858,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e9f1a11-2eeb-42d5-9a8c-0d1cf11f347f")
-<<<<<<< HEAD
 		(property "Reference" "#PWR07"
 			(at 196.85 39.37 0)
-=======
-		(property "Reference" "#PWR7"
-			(at 69.85 128.27 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5160,11 +3868,7 @@
 			)
 		)
 		(property "Value" "+5V"
-<<<<<<< HEAD
 			(at 196.85 30.48 0)
-=======
-			(at 69.85 119.38 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5172,11 +3876,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 196.85 35.56 0)
-=======
-			(at 69.85 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5185,11 +3885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 196.85 35.56 0)
-=======
-			(at 69.85 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,11 +3894,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-<<<<<<< HEAD
 			(at 196.85 35.56 0)
-=======
-			(at 69.85 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5214,15 +3906,9 @@
 			(uuid "95f26f10-6a26-4248-be80-29fca5ac498c")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR07")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR7")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -5230,11 +3916,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 74.93 63.5 0)
-=======
-		(at 168.91 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5243,11 +3925,7 @@
 		(fields_autoplaced yes)
 		(uuid "580aa3d1-7bb3-4ddb-bfc1-80fd41b66b5e")
 		(property "Reference" "SW5"
-<<<<<<< HEAD
 			(at 74.93 55.88 0)
-=======
-			(at 168.91 63.5 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5255,11 +3933,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 74.93 58.42 0)
-=======
-			(at 168.91 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5267,11 +3941,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 74.93 58.42 0)
-=======
-			(at 168.91 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5280,11 +3950,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 74.93 58.42 0)
-=======
-			(at 168.91 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5293,11 +3959,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 74.93 63.5 0)
-=======
-			(at 168.91 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5322,11 +3984,7 @@
 	)
 	(symbol
 		(lib_id "LED:WS2812B")
-<<<<<<< HEAD
 		(at 215.9 43.18 0)
-=======
-		(at 88.9 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5335,11 +3993,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c7fa61a-c6d0-4e41-a7ca-9c12aaba1668")
 		(property "Reference" "D13"
-<<<<<<< HEAD
 			(at 227.33 36.8614 0)
-=======
-			(at 100.33 125.7614 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5347,24 +4001,15 @@
 			)
 		)
 		(property "Value" "WS2812B"
-<<<<<<< HEAD
 			(at 227.33 39.4014 0)
-=======
-			(at 100.33 128.3014 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 217.17 50.8 0)
-=======
-		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
-			(at 90.17 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5374,11 +4019,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-<<<<<<< HEAD
 			(at 218.44 52.705 0)
-=======
-			(at 91.44 141.605 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5388,11 +4029,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-<<<<<<< HEAD
 			(at 215.9 43.18 0)
-=======
-			(at 88.9 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5413,11 +4050,7 @@
 			(uuid "45ace1c4-2fb2-421f-ba37-5965593e7eac")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "D13")
 					(unit 1)
@@ -5427,11 +4060,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-<<<<<<< HEAD
 		(at 177.8 35.56 0)
-=======
-		(at 50.8 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5439,13 +4068,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c0490c0-3ed3-478c-80a8-cf62941915b9")
-<<<<<<< HEAD
 		(property "Reference" "#PWR06"
 			(at 177.8 39.37 0)
-=======
-		(property "Reference" "#PWR6"
-			(at 50.8 128.27 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5454,11 +4078,7 @@
 			)
 		)
 		(property "Value" "+5V"
-<<<<<<< HEAD
 			(at 177.8 30.48 0)
-=======
-			(at 50.8 119.38 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5466,11 +4086,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 177.8 35.56 0)
-=======
-			(at 50.8 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,11 +4095,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 177.8 35.56 0)
-=======
-			(at 50.8 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5492,11 +4104,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-<<<<<<< HEAD
 			(at 177.8 35.56 0)
-=======
-			(at 50.8 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5508,15 +4116,9 @@
 			(uuid "b3863d00-2276-45cb-bb97-685d377d07dd")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR06")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR6")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -5524,11 +4126,7 @@
 	)
 	(symbol
 		(lib_id "LED:WS2812B")
-<<<<<<< HEAD
 		(at 177.8 43.18 0)
-=======
-		(at 50.8 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5537,11 +4135,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c8975f0-6092-4dc8-a915-a4dae600a7de")
 		(property "Reference" "D11"
-<<<<<<< HEAD
 			(at 189.23 36.8614 0)
-=======
-			(at 62.23 125.7614 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5549,24 +4143,15 @@
 			)
 		)
 		(property "Value" "WS2812B"
-<<<<<<< HEAD
 			(at 189.23 39.4014 0)
-=======
-			(at 62.23 128.3014 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 179.07 50.8 0)
-=======
-		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
-			(at 52.07 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,11 +4161,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-<<<<<<< HEAD
 			(at 180.34 52.705 0)
-=======
-			(at 53.34 141.605 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5590,11 +4171,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-<<<<<<< HEAD
 			(at 177.8 43.18 0)
-=======
-			(at 50.8 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5615,11 +4192,7 @@
 			(uuid "c7cc55ec-7f73-4c1b-946f-d1bbaa65b8fe")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "D11")
 					(unit 1)
@@ -5629,11 +4202,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 48.26 63.5 0)
-=======
-		(at 142.24 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5642,11 +4211,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d18d9d9-c669-4fdc-aa9d-b34f9a36a3e2")
 		(property "Reference" "SW2"
-<<<<<<< HEAD
 			(at 48.26 55.88 0)
-=======
-			(at 142.24 63.5 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5654,11 +4219,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 48.26 58.42 0)
-=======
-			(at 142.24 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5666,11 +4227,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 48.26 58.42 0)
-=======
-			(at 142.24 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5679,11 +4236,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 48.26 58.42 0)
-=======
-			(at 142.24 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,11 +4245,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 48.26 63.5 0)
-=======
-			(at 142.24 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5721,11 +4270,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 74.93 44.45 0)
-=======
-		(at 168.91 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5734,11 +4279,7 @@
 		(fields_autoplaced yes)
 		(uuid "8445153e-ed35-4b1c-bc4f-f970b22e8a21")
 		(property "Reference" "SW4"
-<<<<<<< HEAD
 			(at 74.93 36.83 0)
-=======
-			(at 168.91 44.45 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5746,11 +4287,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 74.93 39.37 0)
-=======
-			(at 168.91 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5758,11 +4295,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 74.93 39.37 0)
-=======
-			(at 168.91 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5771,11 +4304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 74.93 39.37 0)
-=======
-			(at 168.91 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5784,11 +4313,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 74.93 44.45 0)
-=======
-			(at 168.91 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5812,81 +4337,8 @@
 		)
 	)
 	(symbol
-<<<<<<< HEAD
 		(lib_id "XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO")
 		(at 64.77 114.3 0)
-=======
-		(lib_id "Switch:SW_Push")
-		(at 168.91 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "850cc46b-8c12-4f74-9a27-dec09c2adbc3")
-		(property "Reference" "SW6"
-			(at 168.91 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 168.91 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 168.91 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 168.91 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd255b2b-6824-435b-b6e6-9b93637b0d22")
-		)
-		(pin "2"
-			(uuid "d09bc5da-3fee-414c-93aa-4514d405fba5")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "SW6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO")
-		(at 66.04 68.58 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5895,11 +4347,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e08199f-3ecd-496c-a990-23af1db1ee4b")
 		(property "Reference" "U1"
-<<<<<<< HEAD
 			(at 66.04 99.06 0)
-=======
-			(at 67.31 53.34 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5907,24 +4355,15 @@
 			)
 		)
 		(property "Value" "MOUDLE-SEEEDUINO-XIAO"
-<<<<<<< HEAD
 			(at 66.04 101.6 0)
-=======
-			(at 67.31 55.88 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "New_XIAO_Series_Footprints:XIAO-SAMD21-DIP"
 			(at 48.26 111.76 0)
-=======
-		(property "Footprint" "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
-			(at 49.53 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5933,11 +4372,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 48.26 111.76 0)
-=======
-			(at 49.53 66.04 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5946,11 +4381,7 @@
 			)
 		)
 		(property "Description" ""
-<<<<<<< HEAD
 			(at 64.77 114.3 0)
-=======
-			(at 66.04 68.58 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6001,11 +4432,7 @@
 			(uuid "caa69af3-73aa-467e-aa3c-18c662aa9115")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "U1")
 					(unit 1)
@@ -6015,11 +4442,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-<<<<<<< HEAD
 		(at 266.7 36.83 0)
-=======
-		(at 58.42 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6027,13 +4450,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90f7239c-0444-41d4-9052-d293fa2a190c")
-<<<<<<< HEAD
 		(property "Reference" "#PWR02"
 			(at 266.7 40.64 0)
-=======
-		(property "Reference" "#PWR2"
-			(at 58.42 25.4 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6042,11 +4460,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-<<<<<<< HEAD
 			(at 266.7 31.75 0)
-=======
-			(at 58.42 16.51 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,11 +4468,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 266.7 36.83 0)
-=======
-			(at 58.42 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6067,11 +4477,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 266.7 36.83 0)
-=======
-			(at 58.42 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6080,11 +4486,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-<<<<<<< HEAD
 			(at 266.7 36.83 0)
-=======
-			(at 58.42 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6096,15 +4498,9 @@
 			(uuid "1cc7f9f4-642d-481a-a6e6-c564ef8fd605")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR02")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR2")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -6112,11 +4508,7 @@
 	)
 	(symbol
 		(lib_id "LED:WS2812B")
-<<<<<<< HEAD
 		(at 196.85 43.18 0)
-=======
-		(at 69.85 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6125,11 +4517,7 @@
 		(fields_autoplaced yes)
 		(uuid "91c7ce66-08b4-4035-ae71-f56ce21ff706")
 		(property "Reference" "D12"
-<<<<<<< HEAD
 			(at 208.28 36.8614 0)
-=======
-			(at 81.28 125.7614 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,24 +4525,15 @@
 			)
 		)
 		(property "Value" "WS2812B"
-<<<<<<< HEAD
 			(at 208.28 39.4014 0)
-=======
-			(at 81.28 128.3014 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 198.12 50.8 0)
-=======
-		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
-			(at 71.12 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6164,11 +4543,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-<<<<<<< HEAD
 			(at 199.39 52.705 0)
-=======
-			(at 72.39 141.605 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6178,11 +4553,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-<<<<<<< HEAD
 			(at 196.85 43.18 0)
-=======
-			(at 69.85 132.08 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,11 +4574,7 @@
 			(uuid "18693edf-c8d0-425e-97b7-becaa430e9d6")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "D12")
 					(unit 1)
@@ -6217,11 +4584,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-<<<<<<< HEAD
 		(at 114.3 44.45 180)
-=======
-		(at 208.28 52.07 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6230,11 +4593,7 @@
 		(fields_autoplaced yes)
 		(uuid "9509b670-b232-4b10-8c48-4ef31594ef6a")
 		(property "Reference" "D7"
-<<<<<<< HEAD
 			(at 114.3 38.1 0)
-=======
-			(at 208.28 45.72 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6242,11 +4601,7 @@
 			)
 		)
 		(property "Value" "D"
-<<<<<<< HEAD
 			(at 114.3 40.64 0)
-=======
-			(at 208.28 48.26 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6254,11 +4609,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-<<<<<<< HEAD
 			(at 114.3 44.45 0)
-=======
-			(at 208.28 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6267,11 +4618,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 114.3 44.45 0)
-=======
-			(at 208.28 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6280,11 +4627,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 114.3 44.45 0)
-=======
-			(at 208.28 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6293,11 +4636,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 114.3 44.45 0)
-=======
-			(at 208.28 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6306,11 +4645,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 114.3 44.45 0)
-=======
-			(at 208.28 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6335,11 +4670,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder")
-<<<<<<< HEAD
-		(at 182.88 87.63 0)
-=======
-		(at 195.58 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+		(at 167.64 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6348,11 +4679,7 @@
 		(fields_autoplaced yes)
 		(uuid "999138f0-79be-43fb-b5ba-b3c9fb0ec623")
 		(property "Reference" "SW10"
-<<<<<<< HEAD
-			(at 189.23 86.3599 0)
-=======
-			(at 201.93 137.1599 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 173.99 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6361,11 +4688,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder"
-<<<<<<< HEAD
-			(at 189.23 88.8999 0)
-=======
-			(at 201.93 139.6999 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 173.99 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6374,11 +4697,7 @@
 			)
 		)
 		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-<<<<<<< HEAD
-			(at 179.07 83.566 0)
-=======
-			(at 191.77 134.366 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 163.83 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6387,11 +4706,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
-			(at 182.88 81.026 0)
-=======
-			(at 195.58 131.826 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 167.64 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6400,11 +4715,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs"
-<<<<<<< HEAD
-			(at 182.88 87.63 0)
-=======
-			(at 195.58 138.43 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
+			(at 167.64 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6422,11 +4733,7 @@
 			(uuid "275d14e6-fa31-4fdd-af59-0efccd4218dd")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "SW10")
 					(unit 1)
@@ -6436,11 +4743,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 101.6 44.45 0)
-=======
-		(at 195.58 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6449,11 +4752,7 @@
 		(fields_autoplaced yes)
 		(uuid "9caaea20-bdfa-4c09-8535-1128bd6072cf")
 		(property "Reference" "SW7"
-<<<<<<< HEAD
 			(at 101.6 36.83 0)
-=======
-			(at 195.58 44.45 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6461,11 +4760,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 101.6 39.37 0)
-=======
-			(at 195.58 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6473,11 +4768,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 101.6 39.37 0)
-=======
-			(at 195.58 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6486,11 +4777,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 101.6 39.37 0)
-=======
-			(at 195.58 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6499,11 +4786,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 101.6 44.45 0)
-=======
-			(at 195.58 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6528,11 +4811,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-<<<<<<< HEAD
 		(at 158.75 35.56 0)
-=======
-		(at 31.75 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6540,13 +4819,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a420387f-2029-42f2-89ff-e7015acea3b8")
-<<<<<<< HEAD
 		(property "Reference" "#PWR05"
 			(at 158.75 39.37 0)
-=======
-		(property "Reference" "#PWR5"
-			(at 31.75 128.27 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6555,11 +4829,7 @@
 			)
 		)
 		(property "Value" "+5V"
-<<<<<<< HEAD
 			(at 158.75 30.48 0)
-=======
-			(at 31.75 119.38 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6567,11 +4837,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 158.75 35.56 0)
-=======
-			(at 31.75 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,11 +4846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 158.75 35.56 0)
-=======
-			(at 31.75 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6593,11 +4855,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-<<<<<<< HEAD
 			(at 158.75 35.56 0)
-=======
-			(at 31.75 124.46 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6609,15 +4867,9 @@
 			(uuid "92d333ad-1a75-4012-81d1-a74380a1f250")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR05")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR5")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -6625,11 +4877,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 158.75 50.8 0)
-=======
-		(at 31.75 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6637,13 +4885,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa172310-5410-44d2-b58c-df5d3c84a3fd")
-<<<<<<< HEAD
 		(property "Reference" "#PWR014"
 			(at 158.75 57.15 0)
-=======
-		(property "Reference" "#PWR14"
-			(at 31.75 146.05 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6652,11 +4895,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 158.75 55.88 0)
-=======
-			(at 31.75 144.78 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6664,11 +4903,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 158.75 50.8 0)
-=======
-			(at 31.75 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,11 +4912,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 158.75 50.8 0)
-=======
-			(at 31.75 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6690,11 +4921,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 158.75 50.8 0)
-=======
-			(at 31.75 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6706,69 +4933,42 @@
 			(uuid "14f9b5e9-e750-4e2e-9c54-df3aa5ec5529")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR014")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR14")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-<<<<<<< HEAD
 		(lib_id "Device:D")
 		(at 87.63 63.5 180)
-=======
-		(lib_id "Switch:SW_Push")
-		(at 195.58 90.17 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-<<<<<<< HEAD
 		(uuid "b1ecc32c-d537-4407-afa7-6452abbe13cd")
 		(property "Reference" "D5"
 			(at 87.63 57.15 0)
-=======
-		(uuid "aef47315-7085-4d77-b004-0a8616e32283")
-		(property "Reference" "SW9"
-			(at 195.58 82.55 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Value" "D"
 			(at 87.63 59.69 0)
-=======
-		(property "Value" "SW_Push"
-			(at 195.58 85.09 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 87.63 63.5 0)
-=======
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 195.58 85.09 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6777,79 +4977,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 87.63 63.5 0)
-=======
-			(at 195.58 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 195.58 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c664f294-42fd-405c-8c3b-e8a72b7d81b0")
-		)
-		(pin "2"
-			(uuid "ccdee18c-f515-47a6-8e9f-a7a46ecb1903")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "SW9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 181.61 71.12 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1ecc32c-d537-4407-afa7-6452abbe13cd")
-		(property "Reference" "D5"
-			(at 181.61 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 181.61 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-			(at 181.61 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6858,11 +4986,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 87.63 63.5 0)
-=======
-			(at 181.61 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6871,11 +4995,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 87.63 63.5 0)
-=======
-			(at 181.61 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6884,11 +5004,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 87.63 63.5 0)
-=======
-			(at 181.61 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6913,11 +5029,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-<<<<<<< HEAD
 		(at 60.96 63.5 180)
-=======
-		(at 154.94 71.12 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6926,11 +5038,7 @@
 		(fields_autoplaced yes)
 		(uuid "b235f99e-d778-4b2a-bb16-d70c29587f50")
 		(property "Reference" "D2"
-<<<<<<< HEAD
 			(at 60.96 57.15 0)
-=======
-			(at 154.94 64.77 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6938,11 +5046,7 @@
 			)
 		)
 		(property "Value" "D"
-<<<<<<< HEAD
 			(at 60.96 59.69 0)
-=======
-			(at 154.94 67.31 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6950,11 +5054,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-<<<<<<< HEAD
 			(at 60.96 63.5 0)
-=======
-			(at 154.94 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6963,11 +5063,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 60.96 63.5 0)
-=======
-			(at 154.94 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6976,11 +5072,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 60.96 63.5 0)
-=======
-			(at 154.94 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6989,11 +5081,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 60.96 63.5 0)
-=======
-			(at 154.94 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7002,11 +5090,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 60.96 63.5 0)
-=======
-			(at 154.94 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7031,11 +5115,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-<<<<<<< HEAD
 		(at 60.96 44.45 180)
-=======
-		(at 154.94 52.07 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7044,11 +5124,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce6ff244-0369-4987-b13a-8130c259d0d3")
 		(property "Reference" "D1"
-<<<<<<< HEAD
 			(at 60.96 38.1 0)
-=======
-			(at 154.94 45.72 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7056,11 +5132,7 @@
 			)
 		)
 		(property "Value" "D"
-<<<<<<< HEAD
 			(at 60.96 40.64 0)
-=======
-			(at 154.94 48.26 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7068,11 +5140,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-<<<<<<< HEAD
 			(at 60.96 44.45 0)
-=======
-			(at 154.94 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7081,11 +5149,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 60.96 44.45 0)
-=======
-			(at 154.94 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7094,11 +5158,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 60.96 44.45 0)
-=======
-			(at 154.94 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7107,11 +5167,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 60.96 44.45 0)
-=======
-			(at 154.94 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7120,11 +5176,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 60.96 44.45 0)
-=======
-			(at 154.94 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7139,11 +5191,7 @@
 			(uuid "b082c4fa-795e-4200-a6cb-0b4a22c609a5")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "D1")
 					(unit 1)
@@ -7153,11 +5201,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 89.535 92.075 180)
-=======
-		(at 90.805 46.355 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7165,13 +5209,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf97971a-6f61-4f25-bdf1-66abe068bb94")
-<<<<<<< HEAD
 		(property "Reference" "#PWR04"
 			(at 89.535 85.725 0)
-=======
-		(property "Reference" "#PWR4"
-			(at 90.805 40.005 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7180,11 +5219,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 89.535 86.995 0)
-=======
-			(at 90.805 41.275 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7192,11 +5227,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 89.535 92.075 0)
-=======
-			(at 90.805 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7205,11 +5236,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 89.535 92.075 0)
-=======
-			(at 90.805 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7218,11 +5245,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 89.535 92.075 0)
-=======
-			(at 90.805 46.355 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7234,15 +5257,9 @@
 			(uuid "4ac3b57e-c348-4038-b785-a4ce0e016d1b")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR04")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR4")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -7250,11 +5267,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 177.8 50.8 0)
-=======
-		(at 50.8 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7262,13 +5275,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a7d0da-9a3e-4f99-b659-2a03b58e6dbd")
-<<<<<<< HEAD
 		(property "Reference" "#PWR015"
 			(at 177.8 57.15 0)
-=======
-		(property "Reference" "#PWR15"
-			(at 50.8 146.05 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,11 +5285,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 177.8 55.88 0)
-=======
-			(at 50.8 144.78 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7289,11 +5293,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 177.8 50.8 0)
-=======
-			(at 50.8 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,11 +5302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 177.8 50.8 0)
-=======
-			(at 50.8 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,11 +5311,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 177.8 50.8 0)
-=======
-			(at 50.8 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7331,15 +5323,9 @@
 			(uuid "1fc9ada9-043b-4325-aea1-5c2b40aa10a5")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR015")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR15")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -7347,11 +5333,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 260.35 36.83 180)
-=======
-		(at 52.07 21.59 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7359,13 +5341,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4ad16c1-d4f8-461e-a337-f715d78f8e60")
-<<<<<<< HEAD
 		(property "Reference" "#PWR01"
 			(at 260.35 30.48 0)
-=======
-		(property "Reference" "#PWR1"
-			(at 52.07 15.24 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7374,11 +5351,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 260.35 31.75 0)
-=======
-			(at 52.07 16.51 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7386,11 +5359,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 260.35 36.83 0)
-=======
-			(at 52.07 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7399,11 +5368,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 260.35 36.83 0)
-=======
-			(at 52.07 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7412,11 +5377,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 260.35 36.83 0)
-=======
-			(at 52.07 21.59 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7428,15 +5389,9 @@
 			(uuid "4e2aa154-a3f4-424b-ac63-ed07627d6fda")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR01")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR1")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -7444,11 +5399,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-<<<<<<< HEAD
 		(at 114.3 63.5 180)
-=======
-		(at 208.28 71.12 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7457,11 +5408,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4fa96fe-d567-411d-9e9e-d9d3355aa61d")
 		(property "Reference" "D8"
-<<<<<<< HEAD
 			(at 114.3 57.15 0)
-=======
-			(at 208.28 64.77 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7469,11 +5416,7 @@
 			)
 		)
 		(property "Value" "D"
-<<<<<<< HEAD
 			(at 114.3 59.69 0)
-=======
-			(at 208.28 67.31 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7481,11 +5424,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-<<<<<<< HEAD
 			(at 114.3 63.5 0)
-=======
-			(at 208.28 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7494,11 +5433,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 114.3 63.5 0)
-=======
-			(at 208.28 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,11 +5442,7 @@
 			)
 		)
 		(property "Description" "Diode"
-<<<<<<< HEAD
 			(at 114.3 63.5 0)
-=======
-			(at 208.28 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7520,11 +5451,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-<<<<<<< HEAD
 			(at 114.3 63.5 0)
-=======
-			(at 208.28 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7533,11 +5460,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-<<<<<<< HEAD
 			(at 114.3 63.5 0)
-=======
-			(at 208.28 71.12 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7562,11 +5485,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 215.9 50.8 0)
-=======
-		(at 88.9 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7574,13 +5493,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2566fec-a4e8-4700-a2c5-bdb9e0f8ccb7")
-<<<<<<< HEAD
 		(property "Reference" "#PWR017"
 			(at 215.9 57.15 0)
-=======
-		(property "Reference" "#PWR17"
-			(at 88.9 146.05 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7589,11 +5503,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 215.9 55.88 0)
-=======
-			(at 88.9 144.78 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7601,11 +5511,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 215.9 50.8 0)
-=======
-			(at 88.9 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7614,11 +5520,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 215.9 50.8 0)
-=======
-			(at 88.9 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7627,11 +5529,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 215.9 50.8 0)
-=======
-			(at 88.9 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7643,15 +5541,9 @@
 			(uuid "1d79a316-233a-458a-af6b-78b04cb82bd3")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR017")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR17")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -7659,11 +5551,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-<<<<<<< HEAD
 		(at 196.85 50.8 0)
-=======
-		(at 69.85 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7671,13 +5559,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9fae4db-738a-4cee-8e01-a102c91319b8")
-<<<<<<< HEAD
 		(property "Reference" "#PWR016"
 			(at 196.85 57.15 0)
-=======
-		(property "Reference" "#PWR16"
-			(at 69.85 146.05 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7686,11 +5569,7 @@
 			)
 		)
 		(property "Value" "GND"
-<<<<<<< HEAD
 			(at 196.85 55.88 0)
-=======
-			(at 69.85 144.78 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7698,11 +5577,7 @@
 			)
 		)
 		(property "Footprint" ""
-<<<<<<< HEAD
 			(at 196.85 50.8 0)
-=======
-			(at 69.85 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7711,11 +5586,7 @@
 			)
 		)
 		(property "Datasheet" ""
-<<<<<<< HEAD
 			(at 196.85 50.8 0)
-=======
-			(at 69.85 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7724,11 +5595,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-<<<<<<< HEAD
 			(at 196.85 50.8 0)
-=======
-			(at 69.85 139.7 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7740,35 +5607,23 @@
 			(uuid "b6adcd6c-a1aa-4217-b30b-dcb8e64dbd56")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#PWR016")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#PWR16")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-<<<<<<< HEAD
 		(lib_id "power:PWR_FLAG")
 		(at 80.645 99.695 0)
-=======
-		(lib_id "Device:D")
-		(at 208.28 90.17 180)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-<<<<<<< HEAD
 		(uuid "f97e1c49-e8e3-40ea-9a6d-9b435da714f9")
 		(property "Reference" "#FLG01"
 			(at 80.645 97.79 0)
@@ -7781,32 +5636,14 @@
 		)
 		(property "Value" "PWR_FLAG"
 			(at 80.645 95.25 0)
-=======
-		(uuid "ed2c06b3-6f94-43f0-bdda-e341db46c8a7")
-		(property "Reference" "D9"
-			(at 208.28 83.82 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" ""
 			(at 80.645 99.695 0)
-=======
-		(property "Value" "D"
-			(at 208.28 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-			(at 208.28 90.17 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7815,98 +5652,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 80.645 99.695 0)
-=======
-			(at 208.28 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 208.28 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 208.28 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 208.28 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7dedffed-3c78-4018-b73e-71ddfd9d0a04")
-		)
-		(pin "1"
-			(uuid "e06f5a22-d92a-453b-86ca-ba5a8e57c24e")
-		)
-		(instances
-			(project "HackPad1"
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 81.915 53.975 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f97e1c49-e8e3-40ea-9a6d-9b435da714f9")
-		(property "Reference" "#FLG1"
-			(at 81.915 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 81.915 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 81.915 53.975 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 81.915 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7915,11 +5661,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-<<<<<<< HEAD
 			(at 80.645 99.695 0)
-=======
-			(at 81.915 53.975 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7931,15 +5673,9 @@
 			(uuid "7c59a8da-c3fc-4837-9935-740c570bd912")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "#FLG01")
-=======
-			(project ""
-				(path "/add5448a-8892-4b13-b743-9e2899f953df"
-					(reference "#FLG1")
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 					(unit 1)
 				)
 			)
@@ -7947,11 +5683,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-<<<<<<< HEAD
 		(at 48.26 44.45 0)
-=======
-		(at 142.24 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7960,11 +5692,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff34b023-9428-491e-b134-2ff64308cac9")
 		(property "Reference" "SW1"
-<<<<<<< HEAD
 			(at 48.26 36.83 0)
-=======
-			(at 142.24 44.45 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7972,11 +5700,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-<<<<<<< HEAD
 			(at 48.26 39.37 0)
-=======
-			(at 142.24 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7984,11 +5708,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-<<<<<<< HEAD
 			(at 48.26 39.37 0)
-=======
-			(at 142.24 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7997,11 +5717,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-<<<<<<< HEAD
 			(at 48.26 39.37 0)
-=======
-			(at 142.24 46.99 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8010,11 +5726,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-<<<<<<< HEAD
 			(at 48.26 44.45 0)
-=======
-			(at 142.24 52.07 0)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8029,11 +5741,7 @@
 			(uuid "09d22205-0688-4e17-9ac3-c44abd837c46")
 		)
 		(instances
-<<<<<<< HEAD
 			(project "HackPad1"
-=======
-			(project ""
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
 				(path "/add5448a-8892-4b13-b743-9e2899f953df"
 					(reference "SW1")
 					(unit 1)
@@ -8046,8 +5754,4 @@
 			(page "1")
 		)
 	)
-<<<<<<< HEAD
 )
-=======
-)
->>>>>>> 06c0609550b25a7f2e0c8e0ac2c0821afbcdc9bd
