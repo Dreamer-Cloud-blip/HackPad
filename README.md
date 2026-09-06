@@ -16,7 +16,7 @@ A compact, custom-designed screwless 6-key mechanical macropad built with a Seee
 
 ## Case & Assembly
 
-![Exploded view showing how the case fits together without screws](assets/case-assembly.png)
+![Exploded view showing how the case fits together without screws](assets/case_assembly.png)
 
 ## Bill of Materials (BOM)
 
@@ -46,4 +46,4 @@ A compact, custom-designed screwless 6-key mechanical macropad built with a Seee
     ├── CAD.png
     ├── Schematic.png
     ├── PCB_layout.png
-    └── case-assembly.png
+    └── case_assembly.png
